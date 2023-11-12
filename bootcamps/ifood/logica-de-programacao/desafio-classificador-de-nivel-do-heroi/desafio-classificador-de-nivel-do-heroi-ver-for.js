@@ -1,5 +1,4 @@
-console.log ("olá mundo")
+let Heroi = ["Oderfla" 1500]
 
-let nomeHeroi = "Oderfla"
 
-console.log (nomeHeroi)
+console.log (Heroi)
