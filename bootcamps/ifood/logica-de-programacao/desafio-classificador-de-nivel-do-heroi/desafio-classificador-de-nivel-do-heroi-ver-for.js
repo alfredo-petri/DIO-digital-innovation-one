@@ -1,4 +1,4 @@
-let Heroi = ["Oderfla" 1500]
+let Heroi = ["Oderfla", 1500]
 
 
 console.log (Heroi)
