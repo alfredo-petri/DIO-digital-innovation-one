@@ -1,5 +1,5 @@
 
-let heroi = ["Oderfla", 15000]
+let heroi = ["Oderfla", 8000]
 
 
 if (heroi [1] <= 1000){
